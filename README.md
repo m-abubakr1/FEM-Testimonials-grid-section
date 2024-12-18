@@ -28,9 +28,11 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop version](./design/desktop-design.jpg)
-![Desktop version](./design/desktop-design.jpg)
-
+![Desktop version](./images/Results/desktop.png)
+![Tablet-1 version](./images/Results/tablet-1.png)
+![Tablet-2 version](./images/Results/Tablet-2.png)
+![Mobile-1 version](./images/Results/Mobile-1.png)
+![Mobile-2 version](./images/Results/mobile-2.png)
 
 ### Links
 
