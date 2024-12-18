@@ -180,7 +180,7 @@ body {
 
 .testimonial .position {
   font-size: var(--fs-300);
-  opacity: 0.5;
+  opacity: 50%;
 }
 
 .testimonial > p:first-of-type {
@@ -189,7 +189,7 @@ body {
 }
 
 .testimonial > p:last-of-type {
-  opacity: 0.7;
+  opacity: 70%;
 }
 
 /* Grid System */
