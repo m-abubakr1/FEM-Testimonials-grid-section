@@ -1,11 +1,15 @@
 :root {
+  /* Primary colors */
   --clr-violet: 263 55% 52%;
   --clr-grayish-blue: 217 19% 35%;
   --clr-blackish-blue: 219 29% 14%;
-  --clr-white: 0 0% 100%;
-  --clr-light-grayish-blue: 210 46% 95%;
-  --clr-light-gray: 0 0% 81%;
 
+  /* neutral colors */
+  --clr-white: 0 0% 100%;
+  --clr-light-gray: 0 0% 81%;
+  --clr-light-grayish-blue: 210 46% 95%;
+
+  /* Fonts */
   --ff-primary: "Barlow Semi Condensed", sans-serif;
 
   --fw-400: 500;
