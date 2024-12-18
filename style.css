@@ -52,21 +52,6 @@ html:focus-within {
   scroll-behavior: smooth;
 }
 
-/* Set core body defaults */
-body {
-  text-rendering: optimizeSpeed;
-  line-height: 1.5;
-
-  display: grid;
-  place-content: center;
-  min-height: 100vh;
-
-  font-family: var(--ff-primary);
-  font-weight: var(--fw-400);
-
-  background-color: hsl(var(--clr-light-grayish-blue));
-}
-
 /* A elements that don't have a class get default styles */
 a:not([class]) {
   text-decoration-skip-ink: auto;
@@ -110,6 +95,20 @@ h3 {
 }
 
 /* utilities */
+body {
+  text-rendering: optimizeSpeed;
+  line-height: 1.5;
+
+  display: grid;
+  place-content: center;
+  min-height: 100vh;
+
+  font-family: var(--ff-primary);
+  font-weight: var(--fw-400);
+
+  background-color: hsl(var(--clr-light-grayish-blue));
+}
+
 .flex {
   display: flex;
   gap: var(--gap, 1rem);
