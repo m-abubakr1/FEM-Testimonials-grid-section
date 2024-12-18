@@ -26,7 +26,7 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
-### Soultion Result:
+### Solution Result:
 
 ![Desktop version](./images/Results/desktop.png)
 <!-- ![Tablet-1 version](./images/Results/tablet-1.png)
