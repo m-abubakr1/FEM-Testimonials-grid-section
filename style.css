@@ -139,7 +139,7 @@ body {
   color: hsl(var(--clr-grayish-blue));
 }
 .border-violet {
-  border: 2px solid #a775f1;
+  border: 2px solid hsl(var(--clr-violet));
 }
 
 /* components */
