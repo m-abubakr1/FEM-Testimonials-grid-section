@@ -50,7 +50,7 @@ Users should be able to:
 
 ### What I learned
 
-The CSS reset showed me a new way of accesibility handling of some animation issues.
+The CSS reset showed me a new way of accessibility handling of some animation issues.
 
 Remove all animations, transitions and smooth scroll for people that prefer not to see them.
 ```css
@@ -69,15 +69,6 @@ Remove all animations, transitions and smooth scroll for people that prefer not 
   }
 }
 ```
-
-```js
-const proudOfThisFunc = () => {
-  console.log("🎉");
-};
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
 
 
 ### Useful resources
