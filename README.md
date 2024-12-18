@@ -69,6 +69,45 @@ Remove all animations, transitions and smooth scroll for people that prefer not 
   }
 }
 ```
+Plus, You can see i have used `em` instead of px unit in media queries, because it scales based on outside of HTML, and there are no issues with this.
+```css
+   @media screen and (min-width: 33em) {
+  .testimonial-grid {
+    grid-template-areas:
+      "one one"
+      "two three"
+      "five five"
+      "four four";
+  }
+}
+
+@media screen and (min-width: 38em) {
+  .testimonial-grid {
+    grid-template-areas:
+      "one one"
+      "two five"
+      "three five"
+      "four four";
+  }
+}
+
+@media screen and (min-width: 54em) {
+  .testimonial-grid {
+    grid-template-areas:
+      "one one two"
+      "five five five"
+      "three four four";
+  }
+}
+
+@media screen and (min-width: 75em) {
+  .testimonial-grid {
+    grid-template-areas:
+      "one one two five"
+      "three four four five";
+  }
+}
+```
 
 
 ### Useful resources
