@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [GitHub-Repository](https://github.com/m-abubakr1/FEM-Testimonials-grid-section)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -53,6 +53,7 @@ Users should be able to:
 The CSS reset showed me a new way of accessibility handling of some animation issues.
 
 Remove all animations, transitions and smooth scroll for people that prefer not to see them.
+
 ```css
 @media (prefers-reduced-motion: reduce) {
   html:focus-within {
@@ -69,9 +70,11 @@ Remove all animations, transitions and smooth scroll for people that prefer not 
   }
 }
 ```
+
 Plus, You can see i have used `em` instead of px unit in media queries, because it scales based on outside of HTML, and there are no issues with this.
+
 ```css
-   @media screen and (min-width: 33em) {
+@media screen and (min-width: 33em) {
   .testimonial-grid {
     grid-template-areas:
       "one one"
@@ -108,7 +111,6 @@ Plus, You can see i have used `em` instead of px unit in media queries, because 
   }
 }
 ```
-
 
 ### Useful resources
 
