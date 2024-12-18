@@ -11,7 +11,6 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -36,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub-Repository](https://github.com/m-abubakr1/FEM-Testimonials-grid-section)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages-Click Me](https://your-live-site-url.com)
 
 ## My process
 
